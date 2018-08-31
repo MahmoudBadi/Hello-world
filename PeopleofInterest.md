@@ -1,0 +1,1 @@
+Ada Byron, born in London on December 10, 1815. Ada showed her gift for mathematics at an early age. She translated an article on an invention by Charles Babbage, and added her own comments. Her father was Britain's greatest poets. She is considered the first author of a computer programeven tho she live about a century from the nvention of the modern computer. 

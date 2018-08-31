@@ -1,0 +1,1 @@
+i think that he computersci class will be very fun because i like working with computer and i i took a proframing course in the summer so i have a little background about it. the class will be not like the other classes for me because it is fun here

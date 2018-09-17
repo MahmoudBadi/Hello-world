@@ -2,9 +2,7 @@
 Public is fine, private requires a subscription
 
 #### General Syllabus
-* [IB MYP Upper School](https://shawnwegs.github.io/Starting-Class/IB-MYP-US-syllabus)
-* IB CP
-* [IB DP CS](https://shawnwegs.github.io/Starting-Class/IB-DP-CS-syllabus)
+* [IB MYP Upper School](https://github.com/MahmoudBadi/Hello-world/blob/master/syllabus.md)
 
 #### Course Description
 * [Computer Science 1](https://shawnwegs.github.io/Starting-Class/course-descriptions/IB-MYP-CP-CompSci)
